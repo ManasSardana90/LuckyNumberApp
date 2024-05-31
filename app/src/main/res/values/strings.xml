@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LuckyNumberApp</string>
+    <string name="welcome_text">Welcome to Lucky Number</string>
+    <string name="hint_enter_name">Please Enter your Name</string>
+    <string name="dice_logo">Dice Logo</string>
+    <string name="wish_me_luck">Wish me Luck!</string>
+    <string name="dice_image">Dice Image</string>
+    <string name="please_enter_your_name">Please enter your name</string>
+    <string name="welcome_to_lucky_number">Welcome to Lucky Number</string>
+    <string name="lucky_number">Lucky Number</string>
+    <string name="share_my_lucky_number">Share my Lucky Number</string>
+</resources>
